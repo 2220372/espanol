@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">えすぱにょ～る</string>
+    <string name="category">カテゴリー</string>
+    <string name="greet">あいさつ</string>
+    <string name="number">数字</string>
+    <string name="fruits">果物</string>
 </resources>
