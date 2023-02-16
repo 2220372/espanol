@@ -4,4 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"/>
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/inicialImage"
+        android:layout_width="350dp"
+        android:layout_height="401dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="165dp"
+        android:layout_marginEnd="31dp"
+        android:layout_marginBottom="165dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/__1_" />
+</androidx.constraintlayout.widget.ConstraintLayout>
