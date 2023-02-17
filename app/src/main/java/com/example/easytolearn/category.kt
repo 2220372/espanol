@@ -20,7 +20,7 @@ class category : AppCompatActivity() {
             val intent = Intent(this,course::class.java)
             startActivity(intent)
         }
-        numberBtn.setOnClickListener {
+       /* numberBtn.setOnClickListener {
             val intent = Intent(this,course::class.java)
             startActivity(intent)
         }
@@ -28,6 +28,8 @@ class category : AppCompatActivity() {
             val intent = Intent(this,course::class.java)
             startActivity(intent)
         }
+
+        */
 
 
 
